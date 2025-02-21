@@ -1,3 +1,7 @@
 .env
 ./.env
 ../.env
+RAG4U
+./RAG4U
+../RAG4U
+resume.pdf
